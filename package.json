@@ -19,7 +19,7 @@
     "prod:check": "dotenv -e .env.local -e .env --override -- node scripts/production-check.mjs",
     "test:dashboard": "node scripts/dashboard-audit.mjs",
     "test:reception": "node scripts/run-reception-flow.mjs",
-    "reset-owner": "dotenv -e .env --override -- tsx scripts/reset-platform-owner.ts",
+    "reset-owner": "dotenv -e .env.local -e .env --override -- tsx scripts/reset-platform-owner.ts",
     "db:setup": "npm run db:up && npm run db:push && npm run db:seed",
     "db:test": "dotenv -e .env.local -e .env --override -- tsx scripts/test-db-connection.ts",
     "db:neon-audit": "dotenv -e .env.local --override -- node scripts/neon-schema-audit.mjs"
