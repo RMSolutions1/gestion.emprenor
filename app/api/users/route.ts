@@ -69,7 +69,7 @@ export async function POST(req: NextRequest) {
         password: hashed,
         name: validated.name,
         role: validated.role,
-        organizationId: validated.role === "PLATFORM_OWNER" ? null : orgId,
+        organizationId: orgId,
       },
       select: { id: true, email: true, name: true, role: true, createdAt: true },
     });

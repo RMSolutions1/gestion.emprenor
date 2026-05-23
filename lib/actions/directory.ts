@@ -41,7 +41,7 @@ export async function createDirectoryUser(input: {
       ? input.organizationId ?? null
       : user.organizationId;
 
-    if (!orgId && validated.role !== "PLATFORM_OWNER") {
+    if (!orgId) {
       return { ok: false as const, error: "Organizacion requerida" };
     }
 
@@ -55,7 +55,7 @@ export async function createDirectoryUser(input: {
         password: hashed,
         name: validated.name,
         role: validated.role,
-        organizationId: validated.role === "PLATFORM_OWNER" ? null : orgId,
+        organizationId: orgId,
       },
     });
 

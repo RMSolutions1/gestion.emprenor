@@ -1,6 +1,6 @@
 # Resultados auditoria completa
 
-**Fecha:** 2026-05-23T01:01:18.422Z
+**Fecha:** 2026-05-23T01:53:50.057Z
 **Base:** http://localhost:3001
 
 ## Resumen

@@ -12,7 +12,7 @@ export const CLIENT_ENTITY_LABELS: Record<ClientEntityType, string> = {
 };
 
 /** Campos que suman al score de ficha (mas info = mejor operacion) */
-const COMPLETENESS_WEIGHTS: { key: keyof ClientProfile; weight: number; label: string }[] = [
+const COMPLETENESS_WEIGHTS: { key: keyof ClientProfileDTO; weight: number; label: string }[] = [
   { key: "entityType", weight: 10, label: "Tipo de cliente" },
   { key: "legalName", weight: 15, label: "Razon social / nombre legal" },
   { key: "taxId", weight: 15, label: "CUIT / identificacion fiscal" },
