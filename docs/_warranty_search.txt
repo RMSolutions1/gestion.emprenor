@@ -1,0 +1,17 @@
+﻿python : Traceback (most recent call last):
+En C:\Users\Windows\AppData\Local\Temp\ps-script-5e597e23-fbc2-4454-af6b-59c85936ed30.ps1: 89 Carácter: 1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 26, in <module>
+    print(' -', snip[:220])
+    ~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2264' in position 60: character maps to <undefined>
+=== MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD.pdf ===
+ - ciones elΘctricas en viviendas unifamiliares hasta 10 kW 2018 Residencial AEA-IEC ET 61201 Uso de tensiones lφmites convencionales de contacto ù Guφa de aplicaci≤n 2021 Nacio
+ - 

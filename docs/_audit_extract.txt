@@ -1,0 +1,43 @@
+﻿python : Traceback (most recent call last):
+En C:\Users\Windows\AppData\Local\Temp\ps-script-dcd58d84-bcb6-4800-bc62-770e95441402.ps1: 89 Carácter: 1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 68, in <module>
+    print('Intro:', r['intro'][:500])
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2264' in position 325: character maps to <undefined>
+=== MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD.pdf ===
+Preview: GRUPO  EMPRENOR   |   PAC-EL-003  Rev.3   |   QA/QC  Instalaciones  ElΘctricas  ù  ArgentinaPßg.  1 | MANUAL  INTEGRAL  DE  ASEGURAMIENTO  Y  CONTROL  DE  CALIDAD | Rep·blica  Argentina  ù  Aplicaci≤n  Nacional  Integral | C╙DIGO T═TULO REVISI╙N FECHA | PAC-EL-003
+Keywords: {'120': 5, 'garant': 2, 'AEA': 253, '90364': 159, 'PAC': 82, 'QA': 130, 'QC': 127, 'procedimiento': 12, 'document': 42, 'revision': 4, 'rev': 84, 'vigencia': 1, 'auditor': 12}
+Intro: GRUPO EMPRENOR | PAC-EL-003 Rev.3 | QA/QC Instalaciones ElΘctricas ù ArgentinaPßg. 1 MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD Rep·blica Argentina ù Aplicaci≤n Nacional Integral C╙DIGO T═TULO REVISI╙N FECHA PAC-EL-003 Manual QA/QC Instalaciones ElΘctricas Rev. 3 ù 2025 Junio 2025 ESTADO MARCO NORMATIVO PRINCIPAL VIGENTE ù APROBADO AEA 90364 Partes 0û8 y todas sus Secciones | AEA 95101/95150/95201/95301/95401/95402/95403 | AEA 95501-1/2/3/4/8 | AEA 95702/95703/95705 | IRAM series 2000
+
+=== NORMAS ARGENTINAS PARA CONSTRUCCIONES SISMORRESISTENTES PARTE II.pdf ===
+Preview: 
+Keywords: {}
+Intro: 
+
+=== PAC_EL_002_EMPRENOR_GRUPO_EMPRENOR.docx ===
+Preview: GRUPO EMPRENOR | EMPRENOR CONSTRUCCIONES Y SERVICIOS | EMPRENOR SOLUCIONES EL╔CTRICAS | MANUAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD | INSTALACIONES EL╔CTRICAS | NIVEL AUDITOR═A M┴XIMA
+Keywords: {'120': 3, 'garant': 2, 'ISO 9001': 5, 'AEA': 46, '90364': 38, 'PAC': 30, 'QA': 74, 'QC': 73, 'procedimiento': 12, 'control de calidad': 2, 'document': 30, 'revision': 2, 'rev': 27, 'auditor': 10}
+Intro: GRUPO EMPRENOR EMPRENOR CONSTRUCCIONES Y SERVICIOS | EMPRENOR SOLUCIONES EL╔CTRICAS MANUAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD INSTALACIONES EL╔CTRICAS NIVEL AUDITOR═A M┴XIMA Aplicaci≤n: Rep·blica Argentina ù Todas las obras elΘctricas Personal propio ò Contratados ò Subcontratistas ò Personal externo afectado FIRMAS DE APROBACI╙N ═NDICE DE CONTENIDOS 1. OBJETIVO Y ALCANCE 1.1 Objetivo Establecer los requisitos mφnimos obligatorios de Aseguramiento y Control de Calidad (QA/QC), trazabilidad tΘ
+
+=== PAC_EL_003_EMPRENOR_REV3_NORMAS_COMPLETAS.docx ===
+Preview: GRUPO EMPRENOR | EMPRENOR CONSTRUCCIONES Y SERVICIOS  |  EMPRENOR SOLUCIONES EL╔CTRICAS | MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD | INSTALACIONES EL╔CTRICAS ù NIVEL AUDITOR═A M┴XIMA | Rep·blica Argentina ù Aplicaci≤n Nacional Integral
+Keywords: {'120': 5, 'garant': 2, 'ISO 9001': 7, 'AEA': 200, '90364': 113, 'PAC': 41, 'QA': 88, 'QC': 85, 'procedimiento': 10, 'control de calidad': 3, 'document': 37, 'revision': 2, 'rev': 42, 'vigencia': 1, 'auditor': 11}
+Intro: GRUPO EMPRENOR EMPRENOR CONSTRUCCIONES Y SERVICIOS | EMPRENOR SOLUCIONES EL╔CTRICAS MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD INSTALACIONES EL╔CTRICAS ù NIVEL AUDITOR═A M┴XIMA Rep·blica Argentina ù Aplicaci≤n Nacional Integral FIRMAS DE APROBACI╙N ═NDICE DE CONTENIDOS 1. OBJETIVO, ALCANCE Y CAMPO DE APLICACI╙N 1.1 Objetivo Establecer el sistema integral de Aseguramiento de la Calidad (QA) y Control de Calidad (QC) para todas las instalaciones elΘctricas ejecutadas por el Grupo Empren
+
+=== PAC_EL_003_EMPRENOR_REV3_NORMAS_COMPLETAS.pdf ===
+Preview: GRUPO  EMPRENOR   |   PAC-EL-003  Rev.3   |   QA/QC  Instalaciones  ElΘctricas  ù  ArgentinaPßg.  1 | MANUAL  INTEGRAL  DE  ASEGURAMIENTO  Y  CONTROL  DE  CALIDAD | Rep·blica  Argentina  ù  Aplicaci≤n  Nacional  Integral | C╙DIGO T═TULO REVISI╙N FECHA | PAC-EL-003
+Keywords: {'120': 5, 'garant': 2, 'AEA': 241, '90364': 151, 'PAC': 79, 'QA': 126, 'QC': 123, 'procedimiento': 10, 'document': 37, 'revision': 2, 'rev': 80, 'vigencia': 1, 'auditor': 11}
+Intro: GRUPO EMPRENOR | PAC-EL-003 Rev.3 | QA/QC Instalaciones ElΘctricas ù ArgentinaPßg. 1 MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD Rep·blica Argentina ù Aplicaci≤n Nacional Integral C╙DIGO T═TULO REVISI╙N FECHA PAC-EL-003 Manual QA/QC Instalaciones ElΘctricas Rev. 3 ù 2025 Junio 2025 ESTADO MARCO NORMATIVO PRINCIPAL VIGENTE ù APROBADO AEA 90364 Partes 0û8 y todas sus Secciones | AEA 95101/95150/95201/95301/95401/95402/95403 | AEA 95501-1/2/3/4/8 | AEA 95702/95703/95705 | IRAM series 2000
+
+=== PAC_ELECTRICO_AUDITORIA_MAXIMA.docx ===
+Preview: PROCEDIMIENTO DE ASEGURAMIENTO DE CALIDAD | INSTALACIONES EL╔CTRICAS - NIVEL AUDITOR═A | C≤digo: PAC-EL-001 | Revisi≤n: 1 | Normativa: AEA 90364 / IRAM / IEC / ISO 9001
+Keywords: {'ISO 9001': 1, 'AEA': 2, '90364': 1, 'PAC': 1, 'QA': 1, 'QC': 1, 'procedimiento': 1, 'control de calidad': 1, 'document': 2, 'rev': 2, 'auditor': 1}
+Intro: 

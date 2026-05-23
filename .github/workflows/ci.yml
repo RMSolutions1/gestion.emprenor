@@ -1,0 +1,62 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: emprenor
+          POSTGRES_PASSWORD: emprenor_ci
+          POSTGRES_DB: emprenor
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U emprenor"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: nextjs_space/package-lock.json
+
+      - name: Install
+        working-directory: nextjs_space
+        run: npm ci
+
+      - name: Prisma
+        working-directory: nextjs_space
+        env:
+          DATABASE_URL: postgresql://emprenor:emprenor_ci@localhost:5432/emprenor?schema=public
+        run: npx prisma db push && npm run db:seed
+
+      - name: Build
+        working-directory: nextjs_space
+        env:
+          DATABASE_URL: postgresql://emprenor:emprenor_ci@localhost:5432/emprenor?schema=public
+          NEXTAUTH_SECRET: ci-secret-minimum-32-characters-long
+          NEXTAUTH_URL: http://localhost:3001
+        run: npm run build
+
+      - name: Smoke tests
+        working-directory: nextjs_space
+        env:
+          DATABASE_URL: postgresql://emprenor:emprenor_ci@localhost:5432/emprenor?schema=public
+          NEXTAUTH_SECRET: ci-secret-minimum-32-characters-long
+          NEXTAUTH_URL: http://localhost:3001
+        run: |
+          npm run dev &
+          sleep 25
+          npm run test:smoke

@@ -1,0 +1,747 @@
+[
+  {
+    "file": "MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD.pdf",
+    "format": ".pdf",
+    "size_kb": 1081.2,
+    "readable": true,
+    "first_lines": [
+      "GRUPO  EMPRENOR   |   PAC-EL-003  Rev.3   |   QA/QC  Instalaciones  Eléctricas  —  ArgentinaPág.  1",
+      "MANUAL  INTEGRAL  DE  ASEGURAMIENTO  Y  CONTROL  DE  CALIDAD",
+      "República  Argentina  —  Aplicación  Nacional  Integral",
+      "CÓDIGO TÍTULO REVISIÓN FECHA",
+      "PAC-EL-003",
+      "Manual  QA/QC  Instalaciones  Eléctricas",
+      "Rev.  3  —  2025  Junio  2025",
+      "ESTADO MARCO  NORMATIVO  PRINCIPAL",
+      "VIGENTE  —  APROBADO",
+      "AEA  90364  Partes  0–8  y  todas  sus  Secciones  |  AEA  95101/95150/95201/95301/95401/95402/95403  |  AEA  95501-1/2/3/4/8  |  AEA  95702/95703/95705  |  IRAM  series  2000/62000  |  Ley  19.587  |  Dec.  351/79,  911/96,  617/97,  249/07  |  Res.  SRT  900/15,  3068/14,  592/04,  11/22  |  ISO  9001:2015  |  IEC  60364  y  series  aplicables"
+    ],
+    "codes": [
+      "PAC-EL-003",
+      "PAC-EL-001"
+    ],
+    "revisions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 412,
+    "section_headings": [
+      "13.  HABILITACIÓN  Y  RECEPCIÓN  FINAL  DE  OBRA  ELÉCTRICA  —  CONF-EL-001 ..........",
+      "1.  OBJETIVO,  ALCANCE  Y  CAMPO  DE  APLICACIÓN  ",
+      "1.1  Objetivo  Establecer  el  sistema  integral  de  Aseguramiento  de  la  Calidad  ",
+      "1.2  Alcance  —  Empresas  Comprendidas  •  Emprenor  Construcciones  y  Servicios  S.",
+      "1.3  Alcance  —  Tipo  de  Instalaciones  El  presente  PAC  aplica  sin  excepción  a",
+      "2.  MARCO  NORMATIVO  COMPLETO  APLICABLE  ",
+      "2.1  Reglamentaciones  AEA  —  Listado  Exhaustivo  ",
+      "2.2  Legislación  Nacional  de  H&S  Obligatoria  ",
+      "2.3  Normas  IRAM  —  Conductores,  Cables  y  Materiales  ",
+      "2.4  Normas  IRAM  —  Aparamenta,  Tableros  y  Materiales  Eléctricos  ",
+      "2.5  Criterios  Técnicos  Fundamentales  —  Valores  de  Referencia  ",
+      "3.  ESTRUCTURA  ORGANIZACIONAL  Y  RESPONSABILIDADES  QA/QC  "
+    ],
+    "char_count": 109983
+  },
+  {
+    "file": "NORMAS ARGENTINAS PARA CONSTRUCCIONES SISMORRESISTENTES PARTE II.pdf",
+    "format": ".pdf",
+    "size_kb": 17328.8,
+    "readable": false,
+    "first_lines": [],
+    "codes": [],
+    "revisions": [],
+    "warranty_snippets": [],
+    "has_doc_management": false,
+    "mentions_iso9001": false,
+    "mentions_sigce": false,
+    "aea_refs_count": 0,
+    "section_headings": [],
+    "char_count": 61
+  },
+  {
+    "file": "PAC_EL_002_EMPRENOR_GRUPO_EMPRENOR.docx",
+    "format": ".docx",
+    "size_kb": 46.0,
+    "readable": true,
+    "first_lines": [
+      "GRUPO EMPRENOR",
+      "EMPRENOR CONSTRUCCIONES Y SERVICIOS | EMPRENOR SOLUCIONES ELÉCTRICAS",
+      "MANUAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD",
+      "INSTALACIONES ELÉCTRICAS",
+      "NIVEL AUDITORÍA MÁXIMA",
+      "Aplicación: República Argentina — Todas las obras eléctricas",
+      "Personal propio • Contratados • Subcontratistas • Personal externo afectado",
+      "FIRMAS DE APROBACIÓN",
+      "ÍNDICE DE CONTENIDOS",
+      "1. OBJETIVO Y ALCANCE"
+    ],
+    "codes": [
+      "PAC-EL-001",
+      "PAC-EL-002"
+    ],
+    "revisions": [
+      "2",
+      "2",
+      "0"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 84,
+    "section_headings": [
+      "1. OBJETIVO Y ALCANCE",
+      "1.1 Objetivo",
+      "1.2 Alcance",
+      "2. MARCO NORMATIVO APLICABLE",
+      "2.1 Normativa Argentina Obligatoria",
+      "2.2 Criterios Técnicos Fundamentales AEA 90364",
+      "3. ESTRUCTURA ORGANIZACIONAL Y RESPONSABILIDADES",
+      "4. CONTROL DOCUMENTAL — SISTEMA ISO 9001:2015",
+      "4.1 Codificación de Documentos",
+      "4.2 Control de Revisiones",
+      "4.3 Distribución y Acceso",
+      "5. PLAN DE INSPECCIÓN Y ENSAYO (ITP) — DESGLOSADO POR SISTEMA"
+    ],
+    "char_count": 40176
+  },
+  {
+    "file": "PAC_EL_003_EMPRENOR_REV3_NORMAS_COMPLETAS.docx",
+    "format": ".docx",
+    "size_kb": 74.6,
+    "readable": true,
+    "first_lines": [
+      "GRUPO EMPRENOR",
+      "EMPRENOR CONSTRUCCIONES Y SERVICIOS  |  EMPRENOR SOLUCIONES ELÉCTRICAS",
+      "MANUAL INTEGRAL DE ASEGURAMIENTO Y CONTROL DE CALIDAD",
+      "INSTALACIONES ELÉCTRICAS — NIVEL AUDITORÍA MÁXIMA",
+      "República Argentina — Aplicación Nacional Integral",
+      "FIRMAS DE APROBACIÓN",
+      "ÍNDICE DE CONTENIDOS",
+      "1. OBJETIVO, ALCANCE Y CAMPO DE APLICACIÓN",
+      "1.1 Objetivo",
+      "Establecer el sistema integral de Aseguramiento de la Calidad (QA) y Control de Calidad (QC) para todas las instalaciones eléctricas ejecutadas por el Grupo Emprenor y sus contratistas, garantizando el cumplimiento exhaustivo de la normativa argentina vigente —AEA, IRAM, IEC, leyes y decretos nacionales— en instalaciones residenciales, comerciales e industriales de cualquier nivel de tensión, en todo el territorio de la República Argentina."
+    ],
+    "codes": [
+      "PAC-EL-003",
+      "PAC-EL-001"
+    ],
+    "revisions": [
+      "3",
+      "3",
+      "0"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 313,
+    "section_headings": [
+      "1. OBJETIVO, ALCANCE Y CAMPO DE APLICACIÓN",
+      "1.1 Objetivo",
+      "1.2 Alcance — Empresas Comprendidas",
+      "1.3 Alcance — Tipo de Instalaciones",
+      "2. MARCO NORMATIVO COMPLETO APLICABLE",
+      "2.1 Reglamentaciones AEA — Listado Exhaustivo",
+      "2.2 Legislación Nacional de H&S Obligatoria",
+      "2.3 Normas IRAM — Conductores, Cables y Materiales",
+      "2.4 Normas IRAM — Aparamenta, Tableros y Materiales Eléctricos",
+      "2.5 Criterios Técnicos Fundamentales — Valores de Referencia",
+      "3. ESTRUCTURA ORGANIZACIONAL Y RESPONSABILIDADES QA/QC",
+      "4. CONTROL DOCUMENTAL — SISTEMA ISO 9001:2015"
+    ],
+    "char_count": 77842
+  },
+  {
+    "file": "PAC_EL_003_EMPRENOR_REV3_NORMAS_COMPLETAS.pdf",
+    "format": ".pdf",
+    "size_kb": 1038.3,
+    "readable": true,
+    "first_lines": [
+      "GRUPO  EMPRENOR   |   PAC-EL-003  Rev.3   |   QA/QC  Instalaciones  Eléctricas  —  ArgentinaPág.  1",
+      "MANUAL  INTEGRAL  DE  ASEGURAMIENTO  Y  CONTROL  DE  CALIDAD",
+      "República  Argentina  —  Aplicación  Nacional  Integral",
+      "CÓDIGO TÍTULO REVISIÓN FECHA",
+      "PAC-EL-003",
+      "Manual  QA/QC  Instalaciones  Eléctricas",
+      "Rev.  3  —  2025  Junio  2025",
+      "ESTADO MARCO  NORMATIVO  PRINCIPAL",
+      "VIGENTE  —  APROBADO",
+      "AEA  90364  Partes  0–8  y  todas  sus  Secciones  |  AEA  95101/95150/95201/95301/95401/95402/95403  |  AEA  95501-1/2/3/4/8  |  AEA  95702/95703/95705  |  IRAM  series  2000/62000  |  Ley  19.587  |  Dec.  351/79,  911/96,  617/97,  249/07  |  Res.  SRT  900/15,  3068/14,  592/04,  11/22  |  ISO  9001:2015  |  IEC  60364  y  series  aplicables"
+    ],
+    "codes": [
+      "PAC-EL-003",
+      "PAC-EL-001"
+    ],
+    "revisions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 392,
+    "section_headings": [
+      "1.  OBJETIVO,  ALCANCE  Y  CAMPO  DE  APLICACIÓN  ",
+      "1.1  Objetivo  Establecer  el  sistema  integral  de  Aseguramiento  de  la  Calidad  ",
+      "1.2  Alcance  —  Empresas  Comprendidas  •  Emprenor  Construcciones  y  Servicios  S.",
+      "1.3  Alcance  —  Tipo  de  Instalaciones  El  presente  PAC  aplica  sin  excepción  a",
+      "2.  MARCO  NORMATIVO  COMPLETO  APLICABLE  ",
+      "2.1  Reglamentaciones  AEA  —  Listado  Exhaustivo  ",
+      "2.2  Legislación  Nacional  de  H&S  Obligatoria  ",
+      "2.3  Normas  IRAM  —  Conductores,  Cables  y  Materiales  ",
+      "2.4  Normas  IRAM  —  Aparamenta,  Tableros  y  Materiales  Eléctricos  ",
+      "2.5  Criterios  Técnicos  Fundamentales  —  Valores  de  Referencia  ",
+      "3.  ESTRUCTURA  ORGANIZACIONAL  Y  RESPONSABILIDADES  QA/QC  ",
+      "4.  CONTROL  DOCUMENTAL  —  SISTEMA  ISO  9001:2015  "
+    ],
+    "char_count": 102258
+  },
+  {
+    "file": "PAC_ELECTRICO_AUDITORIA_MAXIMA.docx",
+    "format": ".docx",
+    "size_kb": 36.9,
+    "readable": true,
+    "first_lines": [
+      "PROCEDIMIENTO DE ASEGURAMIENTO DE CALIDAD",
+      "INSTALACIONES ELÉCTRICAS - NIVEL AUDITORÍA",
+      "Código: PAC-EL-001",
+      "Revisión: 1",
+      "Normativa: AEA 90364 / IRAM / IEC / ISO 9001",
+      "1. OBJETIVO",
+      "Establecer un sistema integral de control de calidad, trazabilidad y verificación técnica conforme a normativa vigente.",
+      "2. CRITERIOS TÉCNICOS AEA",
+      "• PAT ≤ 40 Ω (recomendado ≤ 10 Ω industrial)",
+      "• Diferenciales: 30 mA (personas), 300 mA (incendio)"
+    ],
+    "codes": [
+      "PAC-EL-001"
+    ],
+    "revisions": [
+      "1"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 3,
+    "section_headings": [
+      "1. OBJETIVO",
+      "2. CRITERIOS TÉCNICOS AEA",
+      "3. TRAZABILIDAD DE MATERIALES",
+      "4. ITP COMPLETO",
+      "5. PROTOCOLOS DE ENSAYO",
+      "6. MATRIZ IPER AVANZADA",
+      "7. CONTROL DOCUMENTAL ISO",
+      "8. FIRMAS"
+    ],
+    "char_count": 1304
+  },
+  {
+    "file": "PAC_IE_EMPRENOR_ISO9001_Rev01 (1).pdf",
+    "format": ".pdf",
+    "size_kb": 598.5,
+    "readable": true,
+    "first_lines": [
+      "GRUPO  EMPRENOR Emprenor  Soluciones  Eléctricas  |  Emprenor  Construcciones  y  Servicios",
+      "www.grupo.emprenor.com   |   www.emprenor.com",
+      "PAC  –  INSTALACIONES  ELÉCTRICAS Código:  PAC-IE-EMPRENOR-001",
+      "Revisión  01  –  Abril  2025",
+      "AEA  90364 ISO  9001:2015",
+      "QA:  Grupo  Emprenor",
+      "Emprenor  Soluciones  Eléctricas   ·   Emprenor  Construcciones  y  Servicios www.grupo.emprenor.com   |   www.emprenor.com",
+      "PROCEDIMIENTO  DE",
+      "ASEGURAMIENTO",
+      "DE"
+    ],
+    "codes": [],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 113,
+    "section_headings": [
+      "1.   OBJETO  Y  ALCANCE  ",
+      "1.1   Objeto  del  Procedimiento  El  presente  Procedimiento  de  Aseguramiento  de  l",
+      "1.2   Alcance  El  presente  PAC  aplica  a: •  Instalaciones  eléctricas  de  baja  te",
+      "1.3   Exclusiones  •  Instalaciones  de  media  y  alta  tensión  (>1  kV). •  Instalac",
+      "2.   DOCUMENTOS  DE  REFERENCIA  Todos  los  documentos  listados  deben  considerarse",
+      "2.1   Normas  AEA  ",
+      "2.2   Normas  IRAM  e  IEC  ",
+      "2.3   Norma  de  Sistema  de  Gestión  de  Calidad  ",
+      "3.   DEFINICIONES  Y  ABREVIATURAS  ",
+      "3.1   Definiciones  Técnicas  ",
+      "4.   RESPONSABILIDADES  La  correcta  implementación  de  este  PAC  requiere  la  par",
+      "4.1   Director  de  Obra  /  Proyectista  •  Elaborar  el  proyecto  eléctrico  complet"
+    ],
+    "char_count": 57477
+  },
+  {
+    "file": "PAC_IE_EMPRENOR_ISO9001_Rev01.docx",
+    "format": ".docx",
+    "size_kb": 42.9,
+    "readable": true,
+    "first_lines": [
+      "GRUPO EMPRENOR",
+      "Emprenor Soluciones Eléctricas  ·  Emprenor Construcciones y Servicios",
+      "www.grupo.emprenor.com  |  www.emprenor.com",
+      "PROCEDIMIENTO DE ASEGURAMIENTO DE LA CALIDAD",
+      "INSTALACIONES ELÉCTRICAS",
+      "Residenciales · Comerciales · Industriales",
+      "República Argentina  |  Revisión 01 – 2025",
+      "1.  OBJETO Y ALCANCE",
+      "1.1  Objeto del Procedimiento",
+      "El presente Procedimiento de Aseguramiento de la Calidad (PAC) establece los requisitos, controles, registros e inspecciones necesarios para garantizar que la ejecución de instalaciones eléctricas en inmuebles de todo tipo cumpla con los requerimientos técnicos, normativos y de seguridad vigentes en la República Argentina."
+    ],
+    "codes": [],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 69,
+    "section_headings": [
+      "1.  OBJETO Y ALCANCE",
+      "1.1  Objeto del Procedimiento",
+      "1.2  Alcance",
+      "1.3  Exclusiones",
+      "2.  DOCUMENTOS DE REFERENCIA",
+      "2.1  Normas AEA",
+      "2.2  Normas IRAM e IEC",
+      "2.3  Norma de Sistema de Gestión de Calidad",
+      "3.  DEFINICIONES Y ABREVIATURAS",
+      "3.1  Definiciones Técnicas",
+      "4.  RESPONSABILIDADES",
+      "4.1  Director de Obra / Proyectista"
+    ],
+    "char_count": 40350
+  },
+  {
+    "file": "PAC_Instalaciones_Electricas_AEA90364.docx",
+    "format": ".docx",
+    "size_kb": 42.1,
+    "readable": true,
+    "first_lines": [
+      "ASOCIACIÓN ELECTROTÉCNICA ARGENTINA",
+      "Referencia: AEA 90364 | IRAM | IEC",
+      "PROCEDIMIENTO DE ASEGURAMIENTO",
+      "DE LA CALIDAD",
+      "INSTALACIONES ELÉCTRICAS EN INMUEBLES",
+      "Residenciales · Comerciales · Industriales",
+      "TABLA DE CONTENIDOS",
+      "1.  OBJETO Y ALCANCE",
+      "1.1  Objeto del Procedimiento",
+      "El presente Procedimiento de Aseguramiento de la Calidad (PAC) tiene por objeto establecer los requisitos, controles, registros e inspecciones necesarios para garantizar que la ejecución de instalaciones eléctricas en inmuebles de todo tipo (residenciales, comerciales e industriales) cumpla con los requerimientos técnicos, normativos y de seguridad vigentes en la República Argentina."
+    ],
+    "codes": [
+      "PAC-IE-001"
+    ],
+    "revisions": [
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": false,
+    "mentions_sigce": false,
+    "aea_refs_count": 103,
+    "section_headings": [
+      "1.  OBJETO Y ALCANCE",
+      "1.1  Objeto del Procedimiento",
+      "1.2  Alcance",
+      "1.3  Exclusiones",
+      "2.  DOCUMENTOS DE REFERENCIA",
+      "2.1  Normas y Reglamentaciones AEA",
+      "2.2  Normas IRAM",
+      "2.3  Normas IEC",
+      "3.  DEFINICIONES Y ABREVIATURAS",
+      "3.1  Definiciones Técnicas",
+      "3.2  Abreviaturas",
+      "4.  RESPONSABILIDADES"
+    ],
+    "char_count": 45681
+  },
+  {
+    "file": "Procedimiento QA-QC Emprenor.pdf",
+    "format": ".pdf",
+    "size_kb": 609.6,
+    "readable": true,
+    "first_lines": [
+      "GRUPO  EMPRENOR Emprenor  Soluciones  Eléctricas  |  Emprenor  Construcciones  y  Servicios",
+      "www.grupo.emprenor.com   |   www.emprenor.com",
+      "PAC  –  INSTALACIONES  ELÉCTRICAS Código:  PAC-IE-EMPRENOR-001",
+      "Revisión  01  –  Abril  2025",
+      "AEA  90364 ISO  9001:2015",
+      "QA:  Grupo  Emprenor",
+      "Emprenor  Soluciones  Eléctricas   ·   Emprenor  Construcciones  y  Servicios www.grupo.emprenor.com   |   www.emprenor.com",
+      "PROCEDIMIENTO  DE",
+      "ASEGURAMIENTO",
+      "DE"
+    ],
+    "codes": [],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": false,
+    "aea_refs_count": 113,
+    "section_headings": [
+      "1.   OBJETO  Y  ALCANCE  ",
+      "1.1   Objeto  del  Procedimiento  El  presente  Procedimiento  de  Aseguramiento  de  l",
+      "1.2   Alcance  El  presente  PAC  aplica  a: •  Instalaciones  eléctricas  de  baja  te",
+      "1.3   Exclusiones  •  Instalaciones  de  media  y  alta  tensión  (>1  kV). •  Instalac",
+      "2.   DOCUMENTOS  DE  REFERENCIA  Todos  los  documentos  listados  deben  considerarse",
+      "2.1   Normas  AEA  ",
+      "2.2   Normas  IRAM  e  IEC  ",
+      "2.3   Norma  de  Sistema  de  Gestión  de  Calidad  ",
+      "3.   DEFINICIONES  Y  ABREVIATURAS  ",
+      "3.1   Definiciones  Técnicas  ",
+      "4.   RESPONSABILIDADES  La  correcta  implementación  de  este  PAC  requiere  la  par",
+      "4.1   Director  de  Obra  /  Proyectista  •  Elaborar  el  proyecto  eléctrico  complet"
+    ],
+    "char_count": 57561
+  },
+  {
+    "file": "Procedimientos_Tecnicos_Electricidad.docx",
+    "format": ".docx",
+    "size_kb": 64.9,
+    "readable": true,
+    "first_lines": [
+      "ASOCIACIÓN ELECTROTÉCNICA ARGENTINA",
+      "Base normativa: AEA 90364 · AEA 95150 · IRAM · IEC",
+      "PROCEDIMIENTOS TÉCNICOS DE EJECUCIÓN",
+      "INSTALACIONES ELÉCTRICAS EN INMUEBLES",
+      "Residenciales · Comerciales · Industriales",
+      "ÍNDICE DE PROCEDIMIENTOS",
+      "PROCEDIMIENTO PE-01: EJECUCIÓN DE CANALIZACIONES",
+      "1. OBJETIVO",
+      "Establecer los pasos técnicos obligatorios para la correcta ejecución de canalizaciones eléctricas (cañerías, cablecanales y sus accesorios) garantizando la protección mecánica de los conductores, la accesibilidad futura y el cumplimiento exhaustivo de la Reglamentación AEA 90364.",
+      "2. EQUIPOS, HERRAMIENTAS Y EPP"
+    ],
+    "codes": [
+      "PAC-IE-001"
+    ],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": false,
+    "mentions_iso9001": false,
+    "mentions_sigce": false,
+    "aea_refs_count": 102,
+    "section_headings": [
+      "1. OBJETIVO",
+      "2. EQUIPOS, HERRAMIENTAS Y EPP",
+      "3. CONDICIONES PREVIAS",
+      "4. INSTRUCCIONES TÉCNICAS",
+      "4.1  Trazado y Replanteo",
+      "4.2  Selección del Tipo de Cañería",
+      "4.3  Corte y Preparación de Cañerías",
+      "4.4  Curvado de Cañerías",
+      "4.5  Instalación de Cajas",
+      "4.6  Instalación de Cañerías Embutidas",
+      "4.7  Instalación de Cañerías a la Vista",
+      "4.8  Cañerías Curvables (Corrugadas) – Prescripciones Adicionales 770.10.3.3.4"
+    ],
+    "char_count": 81526
+  },
+  {
+    "file": "Procedimientos_Tecnicos_Electricidad.pdf",
+    "format": ".pdf",
+    "size_kb": 944.6,
+    "readable": true,
+    "first_lines": [
+      "Procedimientos  Técnicos  de  Ejecución  –  Instalaciones  Eléctricas  BT   |   Serie  PE-01  al  PE-11   |   Rev.  01  –  2025",
+      "PROCEDIMIENTO  GENERAL  DE  INSTALACIONES  ELECTRICAS",
+      "Base  normativa:  AEA  90364  ·  AEA  95150  ·  IRAM  ·  IEC",
+      "PROCEDIMIENTOS  TÉCNICOS  DE",
+      "EJECUCIÓN",
+      "INSTALACIONES  ELÉCTRICAS  EN  INMUEBLES",
+      "Residenciales  ·  Comerciales  ·  Industriales",
+      "Serie:  PE-01  al  PE-11  Versión:  Rev.  01  –  Abril  2025  Marco  normativo:  AEA  90364  (Secc.  770  y  771)  |  AEA  95150  |  AEA  95501  |  IRAM  |  IEC  61439  |  IEC  60898  |  IEC  61008  Elaborado  por:  Área  de  Ingeniería  Eléctrica  y  Aseguramiento  de  la  Calidad  Documento  asociado:  PAC-IE-001  –  Procedimiento  de  Aseguramiento  de  la  Calidad  de  Instalaciones  Eléctricas",
+      "Documento  de  uso  exclusivo  para  personal  habilitado   |   Pág.  1  de  46",
+      "Procedimientos  Técnicos  de  Ejecución  –  Instalaciones  Eléctricas  BT   |   Serie  PE-01  al  PE-11   |   Rev.  01  –  2025"
+    ],
+    "codes": [
+      "PAC-IE-001"
+    ],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": false,
+    "mentions_iso9001": false,
+    "mentions_sigce": false,
+    "aea_refs_count": 104,
+    "section_headings": [
+      "4.3   Tendido  del  Cable  de  Puesta  a  Tierra  (CPAT) ..............................",
+      "2.  TIPOS  DE  BANDEJAS  Y  APLICACIONES ............................................",
+      "3.  INSPECCIÓN  PERIÓDICA  –  CONTENIDO  MÍNIMO .....................................",
+      "1.  OBJETIVO  Establecer  los  pasos  técnicos  obligatorios  para  la  correcta  eje",
+      "2.  EQUIPOS,  HERRAMIENTAS  Y  EPP  •  Dobladora  de  caños  eléctricos  (mecánica  o",
+      "3.  CONDICIONES  PREVIAS  ⚠  ADVERTENCIA:  VERIFICAR  QUE  NO  EXISTEN  TENSIONES  EN",
+      "4.  INSTRUCCIONES  TÉCNICAS  ",
+      "4.1   Trazado  y  Replanteo  1.  Estudiar  el  plano  eléctrico  aprobado  e  identific",
+      "3.  Marcar  la  ubicación  de  cada  caja  (bocas,  paso,  derivación)  con  su  altu",
+      "4.  Verificar  que  las  canalizaciones  se  mantengan  a  una  distancia  ≥  0,20  m",
+      "5.  Verificar  que  las  cajas  eléctricas  guardan  una  distancia  ≥  0,50  m  de  ",
+      "4.2   Selección  del  Tipo  de  Cañería  La  selección  del  tipo  de  cañería  debe  r"
+    ],
+    "char_count": 125932
+  },
+  {
+    "file": "PS_EL_001_FINAL_Emprenor.pdf",
+    "format": ".pdf",
+    "size_kb": 518.0,
+    "readable": true,
+    "first_lines": [
+      "GRUPO EMPRENOR",
+      "Ingeniería Eléctrica · Infraestructura · Proyectos",
+      "PROGRAMA DE SEGURIDAD",
+      "MARCO",
+      "PS-EL-001  Rev.01 —  2025",
+      "Grupo Emprenor · PS-EL-001 Rev.01 · Res. SRT N° 51/97 —  Aplicable en toda la República Argentina",
+      "GRUPO EMPRENOR",
+      "Ingeniería Eléctrica · Infraestructura · Proyectos",
+      "PROGRAMA DE SEGURIDAD MARCO",
+      "INSTALACIONES ELÉCTRICAS —  OBRAS DE INGENIERÍA ELÉCTRICA"
+    ],
+    "codes": [
+      "PAC-EL-003",
+      "PS-EL-001",
+      "SIGCE-GE-001"
+    ],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": false,
+    "mentions_sigce": true,
+    "aea_refs_count": 26,
+    "section_headings": [
+      "1. OBJETIVO Y ALCANCE ",
+      "1.1 Objetivo ",
+      "1.2 Actividades comprendidas ",
+      "1.3 Personal alcanzado ",
+      "2. MARCO NORMATIVO — LEGAJO TÉCNICO Y MEMORIA ",
+      "2.1 Normativa obligatoria aplicable ",
+      "2.2 Tabla de horas de H&S semanales requeridas (Res. SRT N° 231/96 Art. 2°) ",
+      "2.3 Memoria descriptiva de la obra (completar para cada obra) ",
+      "2.4 Organigrama del Servicio de H&S (Res. SRT 231/96 Art. 3° inc. e) ",
+      "3. CONDICIONES BÁSICAS DE H&S — OBLIGACIONES TEMPORALES ",
+      "4. ANÁLISIS DE RIESGOS POR ETAPA / TAREA (IPER) — Res. SRT N° ",
+      "60900. Distancias de "
+    ],
+    "char_count": 50594
+  },
+  {
+    "file": "Reglamentacion-AEA 90364-770.pdf",
+    "format": ".pdf",
+    "size_kb": 2501.7,
+    "readable": true,
+    "first_lines": [
+      "AEA 90364",
+      "M Á S  D E",
+      "El usuario de este Documento es responsable de verificar la vigencia, aclaraciones, adendas y corrigendas en www.aea.org.ar",
+      "ASOCIACIÓN ELECTROTÉCNICA ARGENTINA",
+      "DESDE 1913",
+      "ISBN",
+      "García del Corro, Carlos",
+      "Reglamentación para la ejecución de instalaciones eléctricas en inmuebles AEA 90364: parte 7: reglas",
+      "particulares para las instalaciones en lugares y locales especiales, sección 770: viviendas, unifamiliares hasta",
+      "63 A : clasificaciones BA2 y BD1 / Carlos García del Corro. - 1a ed . - Ciudad Autónoma de Buenos Aires:"
+    ],
+    "codes": [],
+    "revisions": [],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": false,
+    "mentions_sigce": false,
+    "aea_refs_count": 185,
+    "section_headings": [
+      "1. Electrotecnia. I. Título. ",
+      "770.1  Dominio de aplicación 5 ",
+      "770.2  Proyecto eléctrico y verificación de conformidad durante el montaje 5 ",
+      "770.2.1 Proyecto eléctrico 5 ",
+      "770.2.2 Verificación de conformidad durante el montaje 6 ",
+      "770.3  Esquemas de conexión a tierra  6 ",
+      "770.3.1 Definición 6 ",
+      "770.3.2 Esquema de conexión a tierra exigido en las instalaciones eléctricas correspondie",
+      "770.4  Características de la alimentación 8 ",
+      "770.4.1 Ámbito de aplicación 8 ",
+      "770.4.2 Naturaleza de las instalaciones 8 ",
+      "770.4.3 Requisitos particulares de la empresa distribuidora de energía eléctrica 9 "
+    ],
+    "char_count": 182590
+  },
+  {
+    "file": "SIGCE_GrupoEmprenor_2025.docx",
+    "format": ".docx",
+    "size_kb": 70.4,
+    "readable": true,
+    "first_lines": [
+      "G R U P O   E M P R E N O R",
+      "Ingeniería Eléctrica · Infraestructura · Proyectos",
+      "www.emprenor.com  |  grupo.emprenor.com",
+      "SISTEMA INTEGRADO DE GESTIÓN",
+      "DE CALIDAD EN INGENIERÍA ELÉCTRICA",
+      "SIGCE – Grupo Emprenor",
+      "emprenor.com  |  grupo.emprenor.com",
+      "MATRIZ MAESTRA DE PROCEDIMIENTOS – SIGCE",
+      "El presente Sistema Integrado de Gestión de Calidad en Ingeniería Eléctrica (SIGCE) de Grupo Emprenor agrupa y estructura la totalidad de los procedimientos técnicos, normativos, de seguridad e higiene y de gestión documental que rigen la ejecución, inspección, certificación y mantenimiento de toda instalación eléctrica ejecutada por la empresa. Constituye el instrumento rector para alcanzar la excelencia operativa y la diferenciación competitiva en el mercado de la ingeniería eléctrica de la República Argentina.",
+      "PA-01: MÉTODOS DE FIJACIÓN Y TRABAJOS EN ALTURA"
+    ],
+    "codes": [
+      "SIGCE)",
+      "SIGCE-GE-001",
+      "SIGCE"
+    ],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": true,
+    "aea_refs_count": 129,
+    "section_headings": [
+      "1. NORMATIVA APLICABLE",
+      "2. EQUIPOS DE PROTECCIÓN INDIVIDUAL (EPI) OBLIGATORIOS",
+      "2.1  Tabla de EPP por Tipo de Trabajo en Altura",
+      "2.2  Requisitos de los Arneses y Líneas de Vida",
+      "3. MÉTODOS DE FIJACIÓN DE ELEMENTOS ELÉCTRICOS",
+      "3.1  Fijaciones en Mampostería y Hormigón",
+      "3.2  Fijaciones en Estructuras Metálicas",
+      "3.3  Procedimiento de Trabajo Seguro en Altura – Paso a Paso",
+      "4. CHECKLIST PA-01 – TRABAJOS EN ALTURA",
+      "1. CLASIFICACIÓN DEL PERSONAL HABILITADO",
+      "2. DISTANCIAS MÍNIMAS DE ACERCAMIENTO (IEC 61472 / AEA 91010)",
+      "3. MONTAJE DE TRANSFORMADORES DE DISTRIBUCIÓN"
+    ],
+    "char_count": 81682
+  },
+  {
+    "file": "SIGCE_GrupoEmprenor_2025.pdf",
+    "format": ".pdf",
+    "size_kb": 996.2,
+    "readable": true,
+    "first_lines": [
+      "SIGCE  –  GRUPO  EMPRENOR   |   Sistema  Integrado  de  Gestión  de  Calidad  en  Ingeniería  Eléctrica   |   Rev.  01  –  2025",
+      "G  R  U  P  O    E  M  P  R  E  N  O  R    Ingeniería  Eléctrica  ·  Infraestructura  ·  Proyectos www.emprenor.com   |   grupo.emprenor.com",
+      "SISTEMA  INTEGRADO  DE  GESTIÓN",
+      "DE  CALIDAD  EN  INGENIERÍA  ELÉCTRICA SIGCE  –  Grupo  Emprenor",
+      "Código  del  sistema:  SIGCE-GE-001   |   Edición  2025",
+      "Aplicación:  Instalaciones  Residenciales  ·  Comerciales  ·  Industriales  ·  Obras  Especiales  ·  Media  Tensión  ·  Alumbrado  Público",
+      "Sectores  cubiertos:  Hospitales  ·  Escuelas  ·  Laboratorios  ·  Supermercados  ·  Fábricas  ·  Sanatorios  ·  Data  Centers  ·  Retail  ·  Industrial",
+      "Base  normativa:  AEA  90364  |  AEA  95150  |  AEA  92305  |  IRAM  Series  2178,  62386,  2309  |  IEC  61439  |  IEC  60898  |  IEC  61537  |  IRAM-CIRSOC  301  |  Ley  19.587  SySO  |  Dec.  351/79  |  Dec.  911/96",
+      "Elaborado  por:  Departamento  de  Ingeniería  y  Aseguramiento  de  la  Calidad  –  Grupo  Emprenor",
+      "Versión  /  Revisión:  Rev.  01  –  Mayo  2025"
+    ],
+    "codes": [
+      "SIGCE)",
+      "SIGCE-GE-001",
+      "SIGCE"
+    ],
+    "revisions": [
+      "01",
+      "01",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": true,
+    "mentions_iso9001": true,
+    "mentions_sigce": true,
+    "aea_refs_count": 129,
+    "section_headings": [
+      "1.  NORMATIVA  APLICABLE  ",
+      "2.  EQUIPOS  DE  PROTECCIÓN  INDIVIDUAL  (EPI)  OBLIGATORIOS  ",
+      "2.1   Tabla  de  EPP  por  Tipo  de  Trabajo  en  Altura  ",
+      "2.2   Requisitos  de  los  Arneses  y  Líneas  de  Vida  1.  El  arnés  debe  ser  de  ",
+      "10333.\n \nCertificación",
+      "2.  La  línea  de  vida  principal  debe  conectarse  al  argolla  dorsal  del  arnés",
+      "3.  Absorb.  de  energía  en  el  conector:  obligatorio  cuando  la  distancia  de  ",
+      "4.  Revisión  del  arnés  antes  de  cada  uso:  verificar  costuras,  costuras,  cie",
+      "5.  Las  líneas  de  vida  estáticas  (horizontales)  deben  ser  instaladas  por  pe",
+      "3.  MÉTODOS  DE  FIJACIÓN  DE  ELEMENTOS  ELÉCTRICOS  ",
+      "3.1   Fijaciones  en  Mampostería  y  Hormigón  ",
+      "3.2   Fijaciones  en  Estructuras  Metálicas  6.  Para  perfiles  de  acero  (ángulos, "
+    ],
+    "char_count": 109808
+  },
+  {
+    "file": "SIGCE_GrupoEmprenor_Rev02_2025.docx",
+    "format": ".docx",
+    "size_kb": 59.6,
+    "readable": true,
+    "first_lines": [
+      "GRUPO EMPRENOR",
+      "Ingeniería Eléctrica · Infraestructura · Proyectos",
+      "SISTEMA INTEGRADO DE GESTIÓN DE CALIDAD",
+      "EN INGENIERÍA ELÉCTRICA",
+      "SIGCE – Grupo Emprenor",
+      "emprenor.com  |  grupo.emprenor.com",
+      "GLOSARIO DE SIGLAS Y ABREVIATURAS TÉCNICAS",
+      "El presente glosario define todas las siglas y abreviaturas utilizadas en el SIGCE, conforme a la terminología normalizada de la AEA, IEC, IRAM y organismos reguladores de la República Argentina.",
+      "INFORME DE AUDITORÍA TÉCNICA – SIGCE Rev.01 → Rev.02",
+      "La presente auditoría fue realizada sobre la Rev.01 del SIGCE con criterio de ingeniero electricista experto. Se analizaron la completitud normativa, la coherencia técnica, la aplicación práctica y la alineación con las normativas vigentes al momento de la revisión (AEA, IRAM, IEC, legislación SySO argentina)."
+    ],
+    "codes": [
+      "SIGCE)",
+      "SIGCE-GE-001",
+      "SIGCE",
+      "SIGCE."
+    ],
+    "revisions": [
+      "01",
+      "02",
+      "01"
+    ],
+    "warranty_snippets": [],
+    "has_doc_management": false,
+    "mentions_iso9001": true,
+    "mentions_sigce": true,
+    "aea_refs_count": 107,
+    "section_headings": [
+      "1. TIPOS DE CANALIZACIONES Y NORMAS",
+      "2. DISTANCIAS MÍNIMAS DE SEPARACIÓN ENTRE CANALIZACIONES (AEA 90364-5-52)",
+      "3. RADIOS MÍNIMOS DE CURVATURA",
+      "4. CARGA MÁXIMA DE CABLES EN CAÑOS (FILL RATIO)",
+      "5. CHECKLIST PE-01 – CANALIZACIONES",
+      "1. CRITERIOS DE DIMENSIONAMIENTO DE CONDUCTORES",
+      "2. CAPACIDAD DE CORRIENTE ADMISIBLE (REFERENCIA AEA 90364-5-52 / IEC 60364-5-52)",
+      "3. FÓRMULA DE CAÍDA DE TENSIÓN",
+      "4. IDENTIFICACIÓN DE CONDUCTORES POR COLORES (AEA 90364 / IRAM 62266)",
+      "5. CHECKLIST PE-02 – TENDIDO Y CABLEADO",
+      "1. TIPOS DE SISTEMAS DE DISTRIBUCIÓN Y PUESTA A TIERRA (IEC 60364-1)",
+      "2. VALORES MÁXIMOS DE RESISTENCIA DE PAT (Ra) SEGÚN APLICACIÓN"
+    ],
+    "char_count": 56050
+  }
+]
